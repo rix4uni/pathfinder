@@ -18,6 +18,8 @@ There are 2 options:
 go install -v github.com/Print3M/pathfinder@latest
 ```
 
+OR
+
 ```bash
 # Download and build the source code
 git clone https://github.com/Print3M/pathfinder
